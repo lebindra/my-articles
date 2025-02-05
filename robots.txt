@@ -1,0 +1,5 @@
+# START nuxt-robots (indexable)
+User-agent: *
+
+Sitemap: https://test.sumitpun.com.np/sitemap.xml
+# END nuxt-robots
