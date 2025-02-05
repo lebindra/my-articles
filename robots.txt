@@ -1,5 +1,5 @@
 # START nuxt-robots (indexable)
 User-agent: *
 
-Sitemap: https://lebindra.github.io/my-articles/sitemap.xml
+Sitemap: https://lebindra.com.np/sitemap.xml
 # END nuxt-robots
