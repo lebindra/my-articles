@@ -66,3 +66,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: .output/public # The folder to deploy (output of `pnpm run generate`)
+          cname: lebindra.com.np # Custom domain
