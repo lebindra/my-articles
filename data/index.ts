@@ -47,7 +47,7 @@ export const seoData = {
   twitterDescription: ``,
   image:
     '/buddha.png',
-  mySite: 'https://lebindra.github.io/my-articles/',
+  mySite: 'https://lebindra.com.np/',
   twitterHandle: '',
   mailAddress: 'sony23grg@gmail.com',
 }
