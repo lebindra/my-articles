@@ -10,7 +10,7 @@ export default defineNuxtConfig({
  
    // Set the base URL for the router (required for GitHub Pages)
    router: {
-     base: '/nuxt-blog/', // Replace with your repository name
+     base: '/my-articles/', // Replace with your repository name
    },
 
   modules: [

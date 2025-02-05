@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://lebindra.com.np" target="_blank">
-    <img  src="./assets/images/dark.png">
-  </a>
-</p>
-
 <h1 align="center">Nuxt Blog A Article Blog Site</h1>
 
 ### Built with
