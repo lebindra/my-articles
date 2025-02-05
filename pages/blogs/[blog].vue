@@ -115,13 +115,13 @@ defineOgImageComponent('Test', {
 
     <div class="flex flex-row flex-wrap md:flex-nowrap mt-10 gap-2">
       <SocialShare
-        v-for="network in ['facebook', 'twitter', 'linkedin', 'email']"
+        v-for="network in ['facebook', 'twitter', 'email']"
         :key="network"
         :network="network"
         :styled="true"
         :label="true"
         class="p-1"
-        aria-label="Share with {network}"
+        style="color: white;"
       />
     </div>
   </div>
