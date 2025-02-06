@@ -13,7 +13,7 @@ useHead({
 
 defineOgImageComponent('About', {
   headline: 'lebindra.com.np',
-  title: navbarData.homeTitle,
+  title: 'Lebindra Gurung',
   description: footerData.aboutAuthor,
   link: '/profile.jpg',
 })

@@ -15,7 +15,7 @@ useHead({
 // Generate OG Image
 defineOgImageComponent('About', {
   headline: 'lebindra.com.np',
-  title: navbarData.homeTitle,
+  title: 'Lebindra Gurung',
   description: 'Your go-to destination for insightful and engaging articles',
   link: '/profile.jpg',
 })
