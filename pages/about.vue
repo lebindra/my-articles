@@ -12,10 +12,10 @@ useHead({
 })
 
 defineOgImageComponent('About', {
-  headline: 'Greetings 👋',
+  headline: 'lebindra.com.np',
   title: navbarData.homeTitle,
-  description: '',
-  link: '/buddha.png',
+  description: footerData.aboutAuthor,
+  link: '/profile.jpg',
 })
 </script>
 

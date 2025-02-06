@@ -81,4 +81,10 @@ export default defineNuxtConfig({
       theme: 'dracula',
     },
   },
+  ogImage: {
+    fonts: [
+      // will load the Noto Sans font from Google fonts
+      'Noto+Sans:400',
+    ]
+  },
 })

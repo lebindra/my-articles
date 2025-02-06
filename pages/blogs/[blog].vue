@@ -80,7 +80,7 @@ useHead({
 
 // Generate OG Image
 defineOgImageComponent('Test', {
-  headline: 'Greetings 👋',
+  headline: 'lebindra.com.np',
   title: data.value.title || '',
   description: data.value.description || '',
   link: data.value.ogImage,
